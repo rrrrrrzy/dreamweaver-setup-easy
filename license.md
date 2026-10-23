@@ -185,3 +185,5 @@
 <p align="center"><a href="https://share.google/C6Vj3fTd5vU1pUbyd"><b>📖 Instructions — Adobe Dreamweaver (2026)</b></a></p>
 
 <p align="center"><sub>基于 MIT 许可证共享 · 更新于 2026-10-23</sub></p>
+
+<!-- rev 2026-10-23 -->
